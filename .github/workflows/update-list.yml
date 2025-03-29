@@ -9,6 +9,10 @@ on:
 jobs:
   generate_table:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Allow the action to write to the repository
+
 
     steps:
       - name: Checkout repository
