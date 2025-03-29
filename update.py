@@ -34,5 +34,5 @@ if __name__ == "__main__":
     print(table)
     
     # Optionally, save to a Markdown file
-    with open('dashboard_list.md', 'w') as f:
+    with open('list.md', 'w') as f:
         f.write(table)
