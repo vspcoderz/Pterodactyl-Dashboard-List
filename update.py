@@ -31,7 +31,8 @@ if __name__ == "__main__":
     table = generate_dashboard_table(dash_folder)
     
     # Prepare the full README content
-    readme_content = f"""# Pterodactyl-Dashboard-List
+    readme_content = f"""
+# Pterodactyl-Dashboard-List
 Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 {table}
@@ -41,15 +42,23 @@ Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detail.json` And `README.md`  In README.md Put Details Of Your Dash And In detail.json Do like Following
 
 ```json
-{{
+{
   # Name Will Be Shown Of Folder Name
   "owner": "Your Name",
   "link": "https://your-dashboard-link.com", # If Not Have Then Put Your Discord Server Link
   "github": "https://github.com/yourusername/repo",
   "pricing": "Free",
   "docs": "dash/my-awesome-dash/README.md" # Also Fill This Properly
-}}
+}
+
 ```
+<pre>
+
+
+  
+</pre>
+
+
 
 # Star This Project!
 Star This Project And Share This To Any Hosting Startup How need help About It 
