@@ -34,5 +34,7 @@ if __name__ == "__main__":
     print(table)
     
     # Optionally, save to a Markdown file
-    with open('list.md', 'w') as f:
-        f.write(table)
+    with open('README.md', 'w') as f:
+        f.write(readme_content)
+
+    print("README.md has been updated successfully.")
