@@ -1,8 +1,8 @@
 
 {
-  "owner": "Your Name",
-  "link": "https://your-dashboard-link.com", 
-  "github": "https://github.com/yourusername/repo",
+  "owner": "Vspcoderz",
+  "link": "https://Vspcoderz.dev", 
+  "github": "https://github.com/vspcoderz/Pterodactyl-Dashboard-List",
   "pricing": "Free",
-  "docs": "dash/Examples/README.md"
+  "docs": "dash/Example/README.md"
 }
