@@ -31,7 +31,8 @@ if __name__ == "__main__":
     table = generate_dashboard_table(dash_folder)
     
     # Prepare the full README content
-    readme_content = f"""# Pterodactyl-Dashboard-List
+    readme_content = f""" Hi There!
+# Pterodactyl-Dashboard-List
 Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 {table}
