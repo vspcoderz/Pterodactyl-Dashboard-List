@@ -1,9 +1,9 @@
 
- Hi There!
+     Hi There!
 # Pterodactyl-Dashboard-List
 Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
-# Check list.md for List
+{table}
 
 # How it works
 
@@ -60,3 +60,5 @@ I'll Make a Website With Docs To Install All Dash Easily
 - [ ] 50 Stars
 - [ ] 100 Stars
 - [ ] 200 Stars
+    
+    
