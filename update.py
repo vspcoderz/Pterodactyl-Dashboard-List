@@ -30,6 +30,17 @@ if __name__ == "__main__":
     dash_folder = 'Dash' # {chr(92)} Change this if your folder is named differently
     table = generate_dashboard_table(dash_folder)
     hash = '#'
+    json_code = '```json
+{
+  // Name Will Be Shown Of Folder Name
+  "owner": "Your Name",
+  "link": "https://your-dashboard-link.com", // If Not Have Then Put Your Discord Server Link
+  "github": "https://github.com/yourusername/repo",
+  "pricing": "Free",
+  "docs": "dash/my-awesome-dash/README.md" // Also Fill This Properly
+}
+
+```'
     
    # {chr(92)} Prepare the full README content
     readme_content = f"""
@@ -43,17 +54,7 @@ Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detail.json` And `README.md`  In README.md Put Details Of Your Dash And In detail.json Do like Following
 
-```json
-{
-  // Name Will Be Shown Of Folder Name
-  "owner": "Your Name",
-  "link": "https://your-dashboard-link.com", // If Not Have Then Put Your Discord Server Link
-  "github": "https://github.com/yourusername/repo",
-  "pricing": "Free",
-  "docs": "dash/my-awesome-dash/README.md" // Also Fill This Properly
-}
-
-```
+{json_code}
 <pre>
 
 
