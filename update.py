@@ -6,31 +6,31 @@ def generate_dashboard_table(dash_folder):
     table_header = "| Name | Owner | Link | Github | 🆓Free / 💵Paid | Docs |\n"
     table_header += "|------|-------|------|--------|-------------|-----------|\n"
 
-    {chr(92)} Iterate through each folder in the Dash directory
+  #  {chr(92)} Iterate through each folder in the Dash directory
     for dashboard in os.listdir(dash_folder):
         dashboard_path = os.path.join(dash_folder, dashboard)
         
-        {chr(92)} Check if it's a directory
+       # {chr(92)} Check if it's a directory
         if os.path.isdir(dashboard_path):
             detail_file = os.path.join(dashboard_path, 'detail.json')
             
-            {chr(92)} Check if detail.json exists
+           # {chr(92)} Check if detail.json exists
             if os.path.isfile(detail_file):
                 with open(detail_file, 'r') as f:
                     details = json.load(f)
-                    {chr(92)} Create a table row
+                   # {chr(92)} Create a table row
                     row = f"| {dashboard} | {details['owner']} | {details['link']} | {details['github']} | {details['pricing']} | [Docs]({details['docs']}) |"
                     table_rows.append(row)
 
-    {chr(92)} Combine header and rows
+   # {chr(92)} Combine header and rows
     full_table = table_header + "\n".join(table_rows)
     return full_table
 
 if __name__ == "__main__":
-    dash_folder = 'Dash'  {chr(92)} Change this if your folder is named differently
+    dash_folder = 'Dash' # {chr(92)} Change this if your folder is named differently
     table = generate_dashboard_table(dash_folder)
     
-    {chr(92)} Prepare the full README content
+   # {chr(92)} Prepare the full README content
     readme_content = f"""
      Hi There!
 {chr(92)} Pterodactyl-Dashboard-List
