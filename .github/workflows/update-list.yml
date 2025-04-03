@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dashboard_list.md
+          git add list.md
           git commit -m "Added New Dash In List" || echo "No changes to commit"
           git push
         env:
