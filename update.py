@@ -29,27 +29,28 @@ def generate_dashboard_table(dash_folder):
 if __name__ == "__main__":
     dash_folder = 'Dash' # {chr(92)} Change this if your folder is named differently
     table = generate_dashboard_table(dash_folder)
+    hash = '#'
     
    # {chr(92)} Prepare the full README content
     readme_content = f"""
      Hi There!
-{chr(92)} Pterodactyl-Dashboard-List
+{hash} Pterodactyl-Dashboard-List
 Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 {table}
 
-{chr(92)} How it works
+{hash} How it works
 
 In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detail.json` And `README.md`  In README.md Put Details Of Your Dash And In detail.json Do like Following
 
 ```json
 {
-  {chr(92)} Name Will Be Shown Of Folder Name
+  {hash} Name Will Be Shown Of Folder Name
   "owner": "Your Name",
-  "link": "https://your-dashboard-link.com", {chr(92)} If Not Have Then Put Your Discord Server Link
+  "link": "https://your-dashboard-link.com", {hash} If Not Have Then Put Your Discord Server Link
   "github": "https://github.com/yourusername/repo",
   "pricing": "Free",
-  "docs": "dash/my-awesome-dash/README.md" {chr(92)} Also Fill This Properly
+  "docs": "dash/my-awesome-dash/README.md" {hash} Also Fill This Properly
 }
 
 ```
@@ -61,40 +62,103 @@ In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detai
 
 
 
-{chr(92)} Star This Project!
+{hash} Star This Project!
 Star This Project And Share This To Any Hosting Startup How need help About It 
 
-{chr(92)} Send Pull Request to Add Yours
+{hash} Send Pull Request to Add Yours
 
-{chr(92)}{chr(92)} Upcoming ..
+{hash}{hash} Upcoming ..
 I'll Make a Website With Docs To Install All Dash Easily
 
 - [ ] Proper List In Website
 - [ ] Docs
 
-{chr(92)}{chr(92)} Milestone 🙌
+{hash}{hash} Milestone 🙌
 
-{chr(92)}{chr(92)}{chr(92)} Free Dashboard
+{hash}{hash}{hash} Free Dashboard
 - [ ] 10 Dashboard Listed
 - [ ] 20 Dashboard Listed
 - [ ] 30 Dashboard Listed
 
-{chr(92)}{chr(92)}{chr(92)} Paid Dashboard
+{hash}{hash}{hash} Paid Dashboard
 - [ ] 1 Paid Dashboard Listed
 - [ ] 5 Paid Dashboard Listed
 - [ ] 10 Paid Dashboard Listed
 
-{chr(92)}{chr(92)}{chr(92)} Custom Dashboard (Which Is Made For Customer And It Will Show It)
+{hash}{hash}{hash} Custom Dashboard (Which Is Made For Customer And It Will Show It)
 - [ ] 5 Custom Dashboard Listed
 
-{chr(92)}{chr(92)}{chr(92)} Stars
+{hash}{hash}{hash} Stars
 - [ ] 10 Stars
 - [ ] 20 Stars
 - [ ] 50 Stars
 - [ ] 100 Stars
 - [ ] 200 Stars
     
-    """
+  ""
+     Hi There!
+{hash} Pterodactyl-Dashboard-List
+Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
+
+{table}
+
+{hash} How it works
+
+In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detail.json` And `README.md`  In README.md Put Details Of Your Dash And In detail.json Do like Following
+
+```json
+{
+  {hash} Name Will Be Shown Of Folder Name
+  "owner": "Your Name",
+  "link": "https://your-dashboard-link.com", {hash} If Not Have Then Put Your Discord Server Link
+  "github": "https://github.com/yourusername/repo",
+  "pricing": "Free",
+  "docs": "dash/my-awesome-dash/README.md" {hash} Also Fill This Properly
+}
+
+```
+<pre>
+
+
+  
+</pre>
+
+
+
+{hash} Star This Project!
+Star This Project And Share This To Any Hosting Startup How need help About It 
+
+{hash} Send Pull Request to Add Yours
+
+{hash}{hash} Upcoming ..
+I'll Make a Website With Docs To Install All Dash Easily
+
+- [ ] Proper List In Website
+- [ ] Docs
+
+{hash}{hash} Milestone 🙌
+
+{hash}{hash}{hash} Free Dashboard
+- [ ] 10 Dashboard Listed
+- [ ] 20 Dashboard Listed
+- [ ] 30 Dashboard Listed
+
+{hash}{hash}{hash} Paid Dashboard
+- [ ] 1 Paid Dashboard Listed
+- [ ] 5 Paid Dashboard Listed
+- [ ] 10 Paid Dashboard Listed
+
+{hash}{hash}{hash} Custom Dashboard (Which Is Made For Customer And It Will Show It)
+- [ ] 5 Custom Dashboard Listed
+
+{hash}{hash}{hash} Stars
+- [ ] 10 Stars
+- [ ] 20 Stars
+- [ ] 50 Stars
+- [ ] 100 Stars
+- [ ] 200 Stars
+    
+  """
 
     #{chr(92)} Save the complete README content to README.md
     with open('README.md', 'w') as f:
