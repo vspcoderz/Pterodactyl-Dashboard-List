@@ -96,7 +96,7 @@ I'll Make a Website With Docs To Install All Dash Easily
     
     """
 
-    {chr(92)} Save the complete README content to README.md
+    #{chr(92)} Save the complete README content to README.md
     with open('README.md', 'w') as f:
         f.write(readme_content)
 
