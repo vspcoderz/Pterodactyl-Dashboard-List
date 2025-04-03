@@ -30,7 +30,7 @@ if __name__ == "__main__":
     dash_folder = 'Dash' # {chr(92)} Change this if your folder is named differently
     table = generate_dashboard_table(dash_folder)
     hash = '#'
-    json_code = '```json
+    json_code = '```
 {
   // Name Will Be Shown Of Folder Name
   "owner": "Your Name",
