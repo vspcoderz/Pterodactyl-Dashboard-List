@@ -108,7 +108,7 @@ In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detai
 
 ```json
 {
-  {hash} Name Will Be Shown Of Folder Name
+  # Name Will Be Shown Of Folder Name
   "owner": "Your Name",
   "link": "https://your-dashboard-link.com", {hash} If Not Have Then Put Your Discord Server Link
   "github": "https://github.com/yourusername/repo",
