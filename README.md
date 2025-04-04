@@ -5,8 +5,7 @@ Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 | Name | Owner | Link | Github | 🆓Free / 💵Paid | Docs |
 |:------:|:-------:|:------:|:--------:|:-------------:|:-----------:|
-| Example | Vspcoderz | [Example](https://Vspcoderz.dev) | [Github](https://github.com/vspcoderz/Pterodactyl-Dashboard-List) | Free | [Docs](dash/Example/README.md) |
-| Example2 | Vspcoderz | [Example2](https://Vspcoderz.dev) | [Github](https://github.com/vspcoderz/Pterodactyl-Dashboard-List) | Free | [Docs](dash/Example2/README.md) |
+
 
 # How it works
 
