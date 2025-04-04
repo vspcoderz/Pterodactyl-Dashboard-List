@@ -13,12 +13,15 @@ In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detai
 
 # detail.json File
 
-```{ // Name Will Be Shown Of Folder Name
+```json
+{ // Name Will Be Shown Of Folder Name
  "owner": "Your Name", 
 "link": "https://your-dashboard-link.com", // If Not Have Then Put Your Discord Server Link
 "github": "https://github.com/yourusername/repo",
 "pricing": "Free",
-"docs": "dash/my-awesome-dash/README.md" // Also Fill This Properly } ```
+"docs": "dash/my-awesome-dash/README.md" // Also Fill This Properly } 
+```
+
 
 <pre>
 
