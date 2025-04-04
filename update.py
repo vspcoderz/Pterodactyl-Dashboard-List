@@ -4,7 +4,7 @@ import json
 def generate_dashboard_table(dash_folder):
     table_rows = []
     table_header = "| Name | Owner | Link | Github | 🆓Free / 💵Paid | Docs |\n"
-    table_header += "|------|-------|------|--------|-------------|-----------|\n"
+    table_header += "|:------:|:-------:|:------:|:--------:|:-------------:|:-----------:|\n"
 
   #  {chr(92)} Iterate through each folder in the Dash directory
     for dashboard in os.listdir(dash_folder):
