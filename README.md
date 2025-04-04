@@ -3,23 +3,23 @@
 # Pterodactyl-Dashboard-List
 Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
-{table}
+| Name | Owner | Link | Github | 🆓Free / 💵Paid | Docs |
+|------|-------|------|--------|-------------|-----------|
+| Example | Vspcoderz | https://Vspcoderz.dev | https://github.com/vspcoderz/Pterodactyl-Dashboard-List | Free | [Docs](dash/Example/README.md) |
 
 # How it works
 
 In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detail.json` And `README.md`  In README.md Put Details Of Your Dash And In detail.json Do like Following
 
-```json
-{
-  # Name Will Be Shown Of Folder Name
-  "owner": "Your Name",
-  "link": "https://your-dashboard-link.com", # If Not Have Then Put Your Discord Server Link
-  "github": "https://github.com/yourusername/repo",
-  "pricing": "Free",
-  "docs": "dash/my-awesome-dash/README.md" # Also Fill This Properly
-}
+# detail.json File
 
-```
+```{ // Name Will Be Shown Of Folder Name
+ "owner": "Your Name", 
+"link": "https://your-dashboard-link.com", // If Not Have Then Put Your Discord Server Link
+"github": "https://github.com/yourusername/repo",
+"pricing": "Free",
+"docs": "dash/my-awesome-dash/README.md" // Also Fill This Properly } ```
+
 <pre>
 
 
@@ -60,5 +60,4 @@ I'll Make a Website With Docs To Install All Dash Easily
 - [ ] 50 Stars
 - [ ] 100 Stars
 - [ ] 200 Stars
-    
     
