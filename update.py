@@ -19,7 +19,7 @@ def generate_dashboard_table(dash_folder):
                 with open(detail_file, 'r') as f:
                     details = json.load(f)
                    # {chr(92)} Create a table row
-                    row = f"| {dashboard} | {details['owner']} | {details['link']} | {details['github']} | {details['pricing']} | [Docs]({details['docs']}) |"
+                    row = f"| {dashboard} | {details['owner']} | [{dashboard}]({details['link']}) | [Github]({details['github']}) | {details['pricing']} | [Docs]({details['docs']}) |"
                     table_rows.append(row)
 
    # {chr(92)} Combine header and rows
