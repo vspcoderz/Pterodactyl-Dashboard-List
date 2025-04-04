@@ -30,12 +30,14 @@ if __name__ == "__main__":
     dash_folder = 'Dash' # {chr(92)} Change this if your folder is named differently
     table = generate_dashboard_table(dash_folder)
     hash = '#'
-    json_code = '```{ // Name Will Be Shown Of Folder Name'
+    json_code = '```json'
+    json_code_6 = '{ // Name Will Be Shown Of Folder Name'
     json_code_1 = ' "owner": "Your Name", '
     json_code_2 = '"link": "https://your-dashboard-link.com", // If Not Have Then Put Your Discord Server Link'
     json_code_3 = '"github": "https://github.com/yourusername/repo",'
     json_code_4 = '"pricing": "Free",'
-    json_code_5 = '"docs": "dash/my-awesome-dash/README.md" // Also Fill This Properly } ```'
+    json_code_5 = '"docs": "dash/my-awesome-dash/README.md" // Also Fill This Properly } '
+    json_code_7 = '```'
 
     
    # {chr(92)} Prepare the full README content
@@ -53,11 +55,14 @@ In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detai
 {hash} detail.json File
 
 {json_code}
+{json_code_6}
 {json_code_1}
 {json_code_2}
 {json_code_3}
 {json_code_4}
 {json_code_5}
+{json_code_7}
+
 
 <pre>
 
