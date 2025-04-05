@@ -60,7 +60,7 @@ I'll Make a Website With Docs To Install All Dash Easily
 - [ ] 5 Paid Dashboard Listed
 - [ ] 10 Paid Dashboard Listed
 
-### Custom Dashboard (Which Is Made For Customer And It Will Show It)
+### Custom Dashboard (For Showcase)
 - [ ] 5 Custom Dashboard Listed
 
 ### Stars
