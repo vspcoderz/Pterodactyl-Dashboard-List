@@ -99,7 +99,7 @@ I'll Make a Website With Docs To Install All Dash Easily
 - [ ] 5 Paid Dashboard Listed
 - [ ] 10 Paid Dashboard Listed
 
-{hash}{hash}{hash} Custom Dashboard (Which Is Made For Customer And It Will Show It)
+{hash}{hash}{hash} Custom Dashboard (For Showcase)
 - [ ] 5 Custom Dashboard Listed
 
 {hash}{hash}{hash} Stars
