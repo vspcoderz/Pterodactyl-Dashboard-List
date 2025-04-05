@@ -75,7 +75,11 @@ In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detai
 {hash} Star This Project!
 Star This Project And Share This To Any Hosting Startup How need help About It 
 
-{hash} Send Pull Request to Add Yours
+{hash} Wanna Add Yours?
+start This Project And Send Pull Request!
+
+
+
 
 {hash}{hash} Upcoming ..
 I'll Make a Website With Docs To Install All Dash Easily
