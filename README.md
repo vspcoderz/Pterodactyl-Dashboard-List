@@ -5,6 +5,7 @@ Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 | Name | Owner | Link | Github | 🆓Free / 💵Paid | Docs |
 |:------:|:-------:|:------:|:--------:|:-------------:|:-----------:|
+| Heliactyl | OpenHeliactyl | [Heliactyl](https://github.com/OpenHeliactyl/Heliactyl) | [Github](https://github.com/OpenHeliactyl/Heliactyl) | Free | [Docs](dash/Heliactyl/README.md) |
 | XaloraClient | XaloraLabs | [XaloraClient](https://github.com/XaloraLabs/XaloraClient) | [Github](https://github.com/XaloraLabs/XaloraClient) | Free | [Docs](dash/XaloraClient/README.md) |
 | Aerodactyl | Crater-Industries | [Aerodactyl](https://github.com/Crater-Industries/AeroDactyl) | [Github](https://github.com/Crater-Industries/AeroDactyl) | Free | [Docs](dash/Aerodactyl/README.md) |
 | ShadowlessDash | XaloraLabs | [ShadowlessDash](https://github.com/XaloraLabs/ShadowlessDash) | [Github](https://github.com/XaloraLabs/ShadowlessDash) | Free, Alternative Of ShadowDash | [Docs](dash/Example/README.md) |
