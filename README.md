@@ -5,11 +5,11 @@ Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 | Name | Owner | Link | Github | 🆓Free / 💵Paid | Docs |
 |:------:|:-------:|:------:|:--------:|:-------------:|:-----------:|
-| UI10 | Ether (Provided By Me) | [UI10](https://drive.google.com/file/d/1pOLMvSgTGpuJRqYIGOmiAcuPYWUWx0dO/view?pli=1m) | [Github](https://github.com/vspcoderz/Pterodactyl-Dashboard-List) | Free Ui Redesigned Of Heliactyl This Is EOL And Forgotten Dash But Works Fine | [Docs](dash/UI10/README.md) |
-| Heliactyl | OpenHeliactyl | [Heliactyl](https://github.com/OpenHeliactyl/Heliactyl) | [Github](https://github.com/OpenHeliactyl/Heliactyl) | Free | [Docs](dash/Heliactyl/README.md) |
-| XaloraClient | XaloraLabs | [XaloraClient](https://github.com/XaloraLabs/XaloraClient) | [Github](https://github.com/XaloraLabs/XaloraClient) | Free | [Docs](dash/XaloraClient/README.md) |
-| Aerodactyl | Crater-Industries | [Aerodactyl](https://github.com/Crater-Industries/AeroDactyl) | [Github](https://github.com/Crater-Industries/AeroDactyl) | Free | [Docs](dash/Aerodactyl/README.md) |
-| ShadowlessDash | XaloraLabs | [ShadowlessDash](https://github.com/XaloraLabs/ShadowlessDash) | [Github](https://github.com/XaloraLabs/ShadowlessDash) | Free, Alternative Of ShadowDash | [Docs](dash/Example/README.md) |
+| UI10 | Ether (Provided By Me) | [UI10 Link](https://drive.google.com/file/d/1pOLMvSgTGpuJRqYIGOmiAcuPYWUWx0dO/view?pli=1m) | [Github](https://github.com/vspcoderz/Pterodactyl-Dashboard-List) | Free Ui Redesigned Of Heliactyl This Is EOL And Forgotten Dash But Works Fine | [Docs](dash/UI10/README.md) |
+| Heliactyl | OpenHeliactyl | [Heliactyl Link](https://github.com/OpenHeliactyl/Heliactyl) | [Github](https://github.com/OpenHeliactyl/Heliactyl) | Free | [Docs](dash/Heliactyl/README.md) |
+| XaloraClient | XaloraLabs | [XaloraClient Link](https://github.com/XaloraLabs/XaloraClient) | [Github](https://github.com/XaloraLabs/XaloraClient) | Free | [Docs](dash/XaloraClient/README.md) |
+| Aerodactyl | Crater-Industries | [Aerodactyl Link](https://github.com/Crater-Industries/AeroDactyl) | [Github](https://github.com/Crater-Industries/AeroDactyl) | Free | [Docs](dash/Aerodactyl/README.md) |
+| ShadowlessDash | XaloraLabs | [ShadowlessDash Link](https://github.com/XaloraLabs/ShadowlessDash) | [Github](https://github.com/XaloraLabs/ShadowlessDash) | Free, Alternative Of ShadowDash | [Docs](dash/Example/README.md) |
 
 # How it works
 
