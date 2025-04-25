@@ -75,6 +75,17 @@ In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detai
 {hash} Star This Project!
 Star This Project And Share This To Any Hosting Startup How need help About It 
 
+{hash}{hash} Star History
+
+<a href="https://www.star-history.com/#vspcoderz/pterodactyl-dashboard-list&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=vspcoderz/pterodactyl-dashboard-list&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=vspcoderz/pterodactyl-dashboard-list&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=vspcoderz/pterodactyl-dashboard-list&type=Timeline" />
+ </picture>
+</a>
+
+
 {hash} Wanna Add Yours?
 start This Project And Send Pull Request!
 
