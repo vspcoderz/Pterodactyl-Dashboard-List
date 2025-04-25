@@ -5,11 +5,11 @@ Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 | Name | Owner | Link | Github | 🆓Free / 💵Paid | Docs |
 |:------:|:-------:|:------:|:--------:|:-------------:|:-----------:|
+| XaloraClient | XaloraLabs | [XaloraClient Link](https://github.com/XaloraLabs/XaloraClient) | [Github](https://github.com/XaloraLabs/XaloraClient) | Free | [Docs](dash/XaloraClient/README.md) |
 | UI10 | Ether (Provided By Me) | [UI10 Link](https://drive.google.com/file/d/1pOLMvSgTGpuJRqYIGOmiAcuPYWUWx0dO/view?pli=1m) | [Github](https://github.com/vspcoderz/Pterodactyl-Dashboard-List) | Free Ui Redesigned Of Heliactyl This Is EOL And Forgotten Dash But Works Fine | [Docs](dash/UI10/README.md) |
 | Heliactyl | OpenHeliactyl | [Heliactyl Link](https://github.com/OpenHeliactyl/Heliactyl) | [Github](https://github.com/OpenHeliactyl/Heliactyl) | Free | [Docs](dash/Heliactyl/README.md) |
-| XaloraClient | XaloraLabs | [XaloraClient Link](https://github.com/XaloraLabs/XaloraClient) | [Github](https://github.com/XaloraLabs/XaloraClient) | Free | [Docs](dash/XaloraClient/README.md) |
-| Aerodactyl | Crater-Industries | [Aerodactyl Link](https://github.com/Crater-Industries/AeroDactyl) | [Github](https://github.com/Crater-Industries/AeroDactyl) | Free | [Docs](dash/Aerodactyl/README.md) |
 | ShadowlessDash | XaloraLabs | [ShadowlessDash Link](https://github.com/XaloraLabs/ShadowlessDash) | [Github](https://github.com/XaloraLabs/ShadowlessDash) | Free, Alternative Of ShadowDash | [Docs](dash/Example/README.md) |
+| Aerodactyl | Crater-Industries | [Aerodactyl Link](https://github.com/Crater-Industries/AeroDactyl) | [Github](https://github.com/Crater-Industries/AeroDactyl) | Free | [Docs](dash/Aerodactyl/README.md) |
 
 # How it works
 
@@ -37,6 +37,17 @@ In Folder Dash Make a New Folder Named Your Dash In There Make a 2 Things `detai
 
 # Star This Project!
 Star This Project And Share This To Any Hosting Startup How need help About It 
+
+## Star History
+
+<a href="https://www.star-history.com/#vspcoderz/pterodactyl-dashboard-list&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=vspcoderz/pterodactyl-dashboard-list&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=vspcoderz/pterodactyl-dashboard-list&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=vspcoderz/pterodactyl-dashboard-list&type=Timeline" />
+ </picture>
+</a>
+
 
 # Wanna Add Yours?
 start This Project And Send Pull Request!
