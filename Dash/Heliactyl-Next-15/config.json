@@ -1,1 +1,7 @@
 
+{ // Name Will Be Shown Of Folder Name
+ "owner": "Foundry", 
+"link": "https://github.com/foundryoss/", // If Not Have Then Put Your Discord Server Link
+"github": "https://github.com/foundryoss/heliactyl",
+"pricing": "Free (Early Development)",
+"docs": "https://github.com/foundryoss/heliactyl/README.md" // Also Fill This Properly } 
