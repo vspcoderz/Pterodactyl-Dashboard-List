@@ -81,7 +81,7 @@ I'll Make a Website With Docs To Install All Dash Easily
 - [ ] 5 Custom Dashboard Listed
 
 ### Stars
-- [-] 10 Stars
+- [ ] 10 Stars
 - [ ] 20 Stars
 - [ ] 50 Stars
 - [ ] 100 Stars
