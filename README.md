@@ -5,15 +5,15 @@ Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
 | Name | Owner | Link | Github | 🆓Free / 💵Paid | Docs |
 |:------:|:-------:|:------:|:--------:|:-------------:|:-----------:|
-| MythicalDash | MythicalSystems Studios | [MythicalDash Link](https://mythical.systems) | [Github](https://github.com/mythicalltd/mythicaldash) | Free | [Docs](https://docs.mythical.systems) |
-| Aerodactyl | Crater-Industries | [Aerodactyl Link](https://github.com/Crater-Industries/AeroDactyl) | [Github](https://github.com/Crater-Industries/AeroDactyl) | Free | [Docs](dash/Aerodactyl/README.md) |
-| ShadowlessDash | XaloraLabs | [ShadowlessDash Link](https://github.com/XaloraLabs/ShadowlessDash) | [Github](https://github.com/XaloraLabs/ShadowlessDash) | Free, Alternative Of ShadowDash | [Docs](dash/Example/README.md) |
-| UI10 | Ether (Provided By Me) | [UI10 Link](https://drive.google.com/file/d/1pOLMvSgTGpuJRqYIGOmiAcuPYWUWx0dO/view?pli=1m) | [Github](https://github.com/vspcoderz/Pterodactyl-Dashboard-List) | Free Ui Redesigned Of Heliactyl This Is EOL And Forgotten Dash But Works Fine | [Docs](dash/UI10/README.md) |
-| garfana | Chle & Garfana Labs | [garfana Link](https://github.com/garfana/panel) | [Github](https://github.com/garfana/panel) | Free | [Docs](panel/README.md) |
-| Fixed-Heliactyl | OvernodeProjets | [Fixed-Heliactyl Link](https://github.com/OvernodeProjets/Fixed-Heliactyl) | [Github](https://github.com/OvernodeProjets/Fixed-Heliactyl) | Free | [Docs](dash/Fixed-Heliactyl/README.md) |
 | Fixed-Heliactyl-Next | OvernodeProjets | [Fixed-Heliactyl-Next Link](https://github.com/OvernodeProjets/fixed-heliactyl-next) | [Github](https://github.com/OvernodeProjets/fixed-heliactyl-next) | Free | [Docs](dash/Fixed-Heliactyl-Next/README.md) |
+| UI10 | Ether (Provided By Me) | [UI10 Link](https://drive.google.com/file/d/1pOLMvSgTGpuJRqYIGOmiAcuPYWUWx0dO/view?pli=1m) | [Github](https://github.com/vspcoderz/Pterodactyl-Dashboard-List) | Free Ui Redesigned Of Heliactyl This Is EOL And Forgotten Dash But Works Fine | [Docs](dash/UI10/README.md) |
+| MythicalDash | MythicalSystems Studios | [MythicalDash Link](https://mythical.systems) | [Github](https://github.com/mythicalltd/mythicaldash) | Free | [Docs](https://docs.mythical.systems) |
 | XaloraClient | XaloraLabs | [XaloraClient Link](https://github.com/XaloraLabs/XaloraClient) | [Github](https://github.com/XaloraLabs/XaloraClient) | Free | [Docs](dash/XaloraClient/README.md) |
+| ShadowlessDash | XaloraLabs | [ShadowlessDash Link](https://github.com/XaloraLabs/ShadowlessDash) | [Github](https://github.com/XaloraLabs/ShadowlessDash) | Free, Alternative Of ShadowDash | [Docs](dash/Example/README.md) |
+| Fixed-Heliactyl | OvernodeProjets | [Fixed-Heliactyl Link](https://github.com/OvernodeProjets/Fixed-Heliactyl) | [Github](https://github.com/OvernodeProjets/Fixed-Heliactyl) | Free | [Docs](dash/Fixed-Heliactyl/README.md) |
 | Heliactyl | OpenHeliactyl | [Heliactyl Link](https://github.com/OpenHeliactyl/Heliactyl) | [Github](https://github.com/OpenHeliactyl/Heliactyl) | Free | [Docs](dash/Heliactyl/README.md) |
+| Aerodactyl | Crater-Industries | [Aerodactyl Link](https://github.com/Crater-Industries/AeroDactyl) | [Github](https://github.com/Crater-Industries/AeroDactyl) | Free | [Docs](dash/Aerodactyl/README.md) |
+| PteroDA | Chle | [PteroDA Link](https://pteroda.vercel.app) | [Github](https://github.com/pteroda-com/pteroda) | Free | [Docs](https://pteroda.vercel.app) |
 
 # How it works
 
