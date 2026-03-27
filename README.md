@@ -1,5 +1,5 @@
 
-     Hi There!
+     Thanks For Completing 10 Stars Goal!
 # Pterodactyl-Dashboard-List
 Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
@@ -53,17 +53,8 @@ Star This Project And Share This To Any Hosting Startup How need help About It
 </a>
 
 
-# Wanna Add Yours?
-start This Project And Send Pull Request!
-
-
-
-
-## Upcoming ..
-I'll Make a Website With Docs To Install All Dash Easily
-
-- [ ] Proper List In Website
-- [ ] Docs
+# Want To Add Yours?
+Fork This Repo And Send Pull Request!
 
 ## Milestone 🙌
 
