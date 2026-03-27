@@ -42,7 +42,7 @@ if __name__ == "__main__":
     
    # {chr(92)} Prepare the full README content
     readme_content = f"""
-     Hi There!
+     Thanks For Completing 10 Stars Goal!
 {hash} Pterodactyl-Dashboard-List
 Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 
@@ -86,17 +86,8 @@ Star This Project And Share This To Any Hosting Startup How need help About It
 </a>
 
 
-{hash} Wanna Add Yours?
-start This Project And Send Pull Request!
-
-
-
-
-{hash}{hash} Upcoming ..
-I'll Make a Website With Docs To Install All Dash Easily
-
-- [ ] Proper List In Website
-- [ ] Docs
+{hash} Want To Add Yours?
+Fork This Repo And Send Pull Request!
 
 {hash}{hash} Milestone 🙌
 
@@ -126,6 +117,6 @@ I'll Make a Website With Docs To Install All Dash Easily
     with open('README.md', 'w') as f:
         f.write(readme_content)
 
-    print("list.md has been updated successfully.")
+    print("Updated.")
 
 
