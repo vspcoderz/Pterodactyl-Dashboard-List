@@ -14,6 +14,7 @@ Want To Get Best Dashboard But Don't Know Where Are They? Here Is a List
 | Heliactyl | OpenHeliactyl | [Heliactyl Link](https://github.com/OpenHeliactyl/Heliactyl) | [Github](https://github.com/OpenHeliactyl/Heliactyl) | Free | [Docs](dash/Heliactyl/README.md) |
 | Aerodactyl | Crater-Industries | [Aerodactyl Link](https://github.com/Crater-Industries/AeroDactyl) | [Github](https://github.com/Crater-Industries/AeroDactyl) | Free | [Docs](dash/Aerodactyl/README.md) |
 | PteroDA | Chle | [PteroDA Link](https://pteroda.vercel.app) | [Github](https://github.com/pteroda-com/pteroda) | Free | [Docs](https://pteroda.vercel.app) |
+| PetroDash | NightFury-Supreme | [PetroDash Link](https://github.com/NightFury-Supreme/PetroDash) | [Github](https://github.com/NightFury-Supreme/PetroDash) | Free | [Docs](dash/PetroDash/README.md) |
 
 # How it works
 
@@ -59,7 +60,7 @@ Fork This Repo And Send Pull Request!
 ## Milestone 🙌
 
 ### Free Dashboard
-- [ ] 10 Dashboard Listed
+- [x] 10 Dashboard Listed
 - [ ] 20 Dashboard Listed
 - [ ] 30 Dashboard Listed
 
